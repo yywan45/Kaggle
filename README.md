@@ -8,5 +8,5 @@
 
 **In Progress: MNIST**
 - Used numpy again as primary method of analysis
-- Implemented 3-layer convolutional neural network using stochastic gradient descent
+- Implemented 3-layer convolutional neural network using stochastic gradient descent (92% accuracy)
 - In progress: incorporating TensorFlow library for greater accuracy
