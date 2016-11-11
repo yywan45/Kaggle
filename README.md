@@ -1,6 +1,11 @@
 # Kaggle
 **Scripts for Kaggle submissions**
 
+**\*.sh files**
+- run scripts after activating virtual environment
+- venv2.sh for python2
+- venv3.sh for python3
+
 **Titanic**
 - First time manipulating data
 - Used numpy as primary method of analysis
